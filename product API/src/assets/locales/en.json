@@ -1,0 +1,18 @@
+{
+	"serverError": "serverError",
+	"Registration successfully": "Registration successfully",
+	"This User Id is already registered": "This User Id is already registered",
+	"Login successful": "Login successful",
+	"forbidden": "forbidden",
+	"unAuthorizedAccess": "unAuthorizedAccess",
+	"success": "success",
+	"user does not exists": "user does not exists",
+	"invalidId": "invalidId",
+	"createdSuccessfully": "createdSuccessfully",
+	"Updated successfully": "Updated successfully",
+	"Password does not match": "Password does not match",
+	"This mobile is already registered": "This mobile is already registered",
+	"user does not exist": "user does not exist",
+	"Product Id is required": "Product Id is required",
+	"Deleted successfully": "Deleted successfully"
+}
